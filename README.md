@@ -1,3 +1,6 @@
+This is intended to run on an Jetson Xavier AGX board.  The
+code uses a docker container from dustynv and https://github.com/husarion/rplidar-docker.
+
 # Build
 ```bash
 docker build -f Dockerfile .
